@@ -4,3 +4,5 @@ child branch text.txt
 alias testing
 
 staging test
+
+staging test2
