@@ -6,7 +6,7 @@ stages{
 			sh 'echo "hello world"'
 			sh '''
 			echo "multiple shell steps works too"
-			ls -lahss---
+			ls -lah
 			'''
 		}
 	}
